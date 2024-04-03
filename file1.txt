@@ -1,0 +1,6 @@
+1-vagrant: la création et la configuration des environnements de développement virtuels,  il simplifie considérablement le processus de configuration et de provisionnement de machines virtuelles
+2-git: le versionning
+3-docker: contenaires
+4-jenkins: Il aide à automatiser les parties du développement logiciel liées au build, aux tests et au déploiement, et facilite l'intégration continue et la livraison continue
+5-ansible: Ansible consolide les ressources sur plusieurs systèmes pour les gérer à partir d'une plateforme unique plutôt que d'assurer la gestion individuelle de chaque système
+6-kuber: la gestion de charges de travail (workloads) et de services conteneurisés. Elle favorise à la fois l'écriture de configuration déclarative (declarative configuration) et l'automatisation, C'est un large écosystème en rapide expansion, assure la résilience des applications en fournissant des volumes répliqués persistants. Les contrôleurs Kubernetes s'assurent que le nombre spécifié de répliques de pods est déployé de manière cohérente dans l'ensemble du cluster, ce qui permet de gérer automatiquement toute défaillance de l'un des nœuds
