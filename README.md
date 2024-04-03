@@ -8,4 +8,4 @@ dev br modify
 
 ##############
 stage br test
-  final test
+  final test : release 1.0.1
